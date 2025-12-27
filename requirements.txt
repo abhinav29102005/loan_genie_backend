@@ -1,0 +1,16 @@
+#Multi Agent
+crewai
+langchain
+langgraph
+
+#llm api
+openai
+google-genai
+langchain-google-genai
+
+
+#web
+python-dotenv
+pydantic
+fastapi
+uvicorn
